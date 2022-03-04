@@ -39,7 +39,7 @@ const Contact = () => {
                       alt="" 
                       className="c-icon"
                       />
-                      +61 478 164 270
+                      +61 333 333 333
                   </div>
                   <div className="c-info-item">
               <img className="c-icon" src={Email} alt="" />
@@ -47,7 +47,6 @@ const Contact = () => {
             </div>
             <div className="c-info-item">
               <img className="c-icon" src={Address} alt="" />
-              93a Nollamara Avenue, Perth, WA 6061 
             </div>
               </div>
           </div>
